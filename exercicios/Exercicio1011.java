@@ -11,8 +11,8 @@ public class Exercicio1011 {
 
 		System.out.printf("VOLUME = %.3f\n", volume);
 
-		//receber o raio da esfera
-		//calcular o volume da esfera
+		teclado.close();
+
 
     }
 }

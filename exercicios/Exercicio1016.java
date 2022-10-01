@@ -7,10 +7,9 @@ public class Exercicio1016 {
 
         int distCarrosYParaX = teclado.nextInt();
         System.out.println(distCarrosYParaX*2 + " minutos");
+        teclado.close();
 
     }
 }
 
 
-//receber a distancia que o carro y esta do carro x 
-//calcular quanto tempo levou p ele chegar nessa diferença

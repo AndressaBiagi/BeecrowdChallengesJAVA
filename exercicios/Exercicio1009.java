@@ -11,9 +11,7 @@ public class Exercicio1009 {
 
 		System.out.printf("TOTAL = %.2f\n", (salarioFixo+(totalVendas*0.15))); 
 
-		//receber o nome de um vendedor 
-		//receber o salario fixo
-		//receber o total de vendas
-		//calcular a comissao de 15% que ele irá receber sobre o mes
+		teclado.close();
+
     }
 }

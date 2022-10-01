@@ -8,6 +8,8 @@ public class Exercicio1004 {
        int a = teclado.nextInt();
        int b = teclado.nextInt();
        System.out.println("PROD = "+ a*b);
+       teclado.close();
+
     }
 }
 

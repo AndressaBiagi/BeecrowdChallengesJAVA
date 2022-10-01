@@ -21,6 +21,8 @@ public class Exercicio1002 {
     double pi = 3.14159;
     double raio = teclado.nextDouble();
     System.out.println("A=" + (raio * raio) * pi);
+    teclado.close();
+
   }
 
 }

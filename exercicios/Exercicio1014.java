@@ -11,9 +11,7 @@ public class Exercicio1014 {
         float consumoMedio = (distTotal/combustivelGasto);
 
         System.out.printf("%.3f km/l\n", consumoMedio);
+        teclado.close();
 
     }
 }
-//receber a distancia total
-//receber o total de combustivel gasto
-//calcular o consumo medio .3f

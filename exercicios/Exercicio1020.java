@@ -12,6 +12,7 @@ public class Exercicio1020 {
        int dias = totaldias % 365 % 30;
 
        System.out.println(anos+ " ano(s)\n" +meses+ " mes(es)\n" +dias+ " dia(s)");
+       teclado.close();
 
     }
 }

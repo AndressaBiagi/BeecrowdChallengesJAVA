@@ -12,9 +12,8 @@ public class Exercicio1019 {
        int segundos = totalSeg % 3600 % 60;
 
        System.out.println(horas +":"+minutos+":"+segundos);
+       teclado.close();
 
     }
 }
 
-//receber o tempo em segundos
-//mostrar ele em horas:minutos:segundos

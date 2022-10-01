@@ -35,7 +35,7 @@ public class Exercicio1021 {
         System.out.println(moeda010 + " moeda(s) de R$ 0.10");
         System.out.println(moeda005 + " moeda(s) de R$ 0.05");
         System.out.println(moeda001 + " moeda(s) de R$ 0.01");
+        teclado.close();
+
     }
 }
-//receber um valor monetario float .2f
-// c

@@ -12,10 +12,7 @@ public class Exercicio1017 {
 
 
         System.out.printf("%.3f", distTotal/12);
+        teclado.close();
 
     }
 }
-
-//receber o tempo total da viagem
-//receber a velocidade media
-//calcular a distancia total percorrida

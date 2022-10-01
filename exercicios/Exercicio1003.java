@@ -10,5 +10,7 @@ public class Exercicio1003 {
         int soma = a+b;
         
         System.out.println("SOMA = "+soma);
+        teclado.close();
+
     }
 }

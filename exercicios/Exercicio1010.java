@@ -15,10 +15,8 @@ public class Exercicio1010 {
 		float totalCompra = (valorPeca*qtdPecas)+(valorPeca2*qtdPecas2);
 		System.out.printf("VALOR A PAGAR: R$ %.2f\n", totalCompra);
 		
-		//receber codigo das peças
-		// receber quantidade de cada peça
-		//receber o valor unitario de cada peça
-		//calcular o valor total da compra
+		teclado.close();
+
     }
 }
 

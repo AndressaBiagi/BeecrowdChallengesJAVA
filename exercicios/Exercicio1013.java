@@ -12,6 +12,7 @@ public class Exercicio1013 {
         int maiorAB = (a+b+Math.abs(a-b))/2;
         int maiorTodos = (maiorAB+c+Math.abs(maiorAB-c))/2;
         System.out.println(maiorTodos+ " eh o maior");
+        teclado.close();
 
     }
 }

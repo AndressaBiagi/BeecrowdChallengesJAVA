@@ -11,6 +11,8 @@ public class Exercicio1005 {
         double mediaB = (b*7.5);
         
         System.out.printf("MEDIA = %.5f", (mediaA+mediaB)/11);
+        teclado.close();
+
     }
 }
 

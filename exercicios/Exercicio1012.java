@@ -15,9 +15,8 @@ public class Exercicio1012 {
 		System.out.printf("TRAPEZIO: %.3f\n", (a+b)*c/2);
 		System.out.printf("QUADRADO: %.3f\n", (b*b));
 		System.out.printf("RETANGULO: %.3f\n", (a*b)); 
-		//receber a
-		//receber b
-		//receber c
+		teclado.close();
+
 
     }
 }

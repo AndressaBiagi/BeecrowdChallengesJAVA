@@ -16,11 +16,7 @@ public class Exercicio1035 {
         }else {
             System.out.println("Valores nao aceitos");
         }
+        teclado.close();
 
     }
 }
-//receber 4 valores inteiros
-//se B for maior que C && D for maior que A &&
-// C+D for maior que A+B && C e D forem positivos && A for par 
-// mostrar 'valores aceitos'
-// se não, valores não aceitos

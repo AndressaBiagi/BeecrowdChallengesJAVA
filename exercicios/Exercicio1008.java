@@ -12,10 +12,8 @@ public class Exercicio1008 {
 		System.out.printf("SALARY = U$ %.2f\n", (valorHora*horasTrabalhadas)); 
 
 
-	   //receber numero de funcionario
-	   //receber o numero de horas trabalhadas
-	   //receber o valor da hora
-	   //calcular o salario total
+		teclado.close();
+
     }
 }
 

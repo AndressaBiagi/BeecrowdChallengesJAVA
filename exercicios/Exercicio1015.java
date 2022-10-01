@@ -13,7 +13,8 @@ public class Exercicio1015 {
         float distancia = (x2-x)*(x2-x) + (y2-y)*(y2-y);
         
         System.out.printf("%.4f", Math.sqrt(distancia));
-        
+        teclado.close();
+
     }
 }
 //receber x e y floats

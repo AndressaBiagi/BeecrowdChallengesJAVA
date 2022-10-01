@@ -11,5 +11,7 @@ public class Exercicio1007 {
        int d = teclado.nextInt();
 
 	   System.out.println("DIFERENÇA = " + (a*b - c*d));
+       teclado.close();
+
     }
 }
